@@ -1,8 +1,10 @@
 /*
  ============================================================================
-Ejercicio 4-2: Realizar una función Suma que reciba como parámetros dos enteros (los que
-va a sumar) y un puntero a entero que guardara el resultado de esta. La función retorna 1 si
-pudo realizar la suma y cero en caso de no haberla podido realizar.
+ Name        : Biblioteca.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
  ============================================================================
  */
 
@@ -14,6 +16,7 @@ pudo realizar la suma y cero en caso de no haberla podido realizar.
 int main(void)
 {
 	setbuf(stdout, NULL);
+
 	int numero1;
 	int numero2;
 	int suma;
@@ -45,9 +48,6 @@ int main(void)
 		printf("\nNo se pudo dividir");
 	}
 
-	return EXIT_SUCCESS;
+	return 0;
 }
-
-
-
 

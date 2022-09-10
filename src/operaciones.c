@@ -1,7 +1,7 @@
 /*
  * operaciones.c
  *
- *  Created on: 8 sep. 2022
+ *  Created on: 10 sep. 2022
  *      Author: Lenovo
  */
 

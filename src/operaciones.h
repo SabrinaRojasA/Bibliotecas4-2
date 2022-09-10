@@ -1,7 +1,7 @@
 /*
  * operaciones.h
  *
- *  Created on: 8 sep. 2022
+ *  Created on: 10 sep. 2022
  *      Author: Lenovo
  */
 
@@ -11,8 +11,4 @@
 int sumar (int numeroUno, int numeroDos, int *resultado);
 int dividir (int dividendo, int divisor, float *resultado);
 
-
 #endif /* OPERACIONES_H_ */
-
-
-
